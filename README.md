@@ -1,7 +1,7 @@
 ### Hi there 👋
 Pronouns: He, his.
 
-I’m currently working at [Stone | Banking](https://www.stone.com.br/). 🧀
+I’m currently working at [Stone | Banking](https://www.stone.com.br/). 
 
 Learning [Go](https://golang.org/) and [Rust](https://www.rust-lang.org/). 📚
 
